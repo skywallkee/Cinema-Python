@@ -1,4 +1,7 @@
 # Cinema Python
+
+![Main Screen Of Application](https://i.imgur.com/me9YkI7.png)
+
 Application implemented in Python that simulates a cinema. The application is able to:
 - Add a movie
 - Modify a movie
